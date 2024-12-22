@@ -1,5 +1,12 @@
 ### Hey there 👋
-## I'm ChasM, a ROBLOX Game developer, 3D Modeller
+I'm ChasM, a ROBLOX Game developer & 3D Modeller
+
+Currently, I know a couple of programming languages, most prodominantly 
+- JavaScript / TypeScript (2 years)
+- Lua (3 years)
+- Python (3 years)
+- C# (1 year)
+and a bit of c, Rust & c++!
 <!--
 **ChasMdev/ChasMdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
