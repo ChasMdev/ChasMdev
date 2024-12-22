@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey there 👋
+## I'm ChasM, a ROBLOX Game developer, 3D Modeller
 <!--
 **ChasMdev/ChasMdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
