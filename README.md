@@ -28,6 +28,8 @@ This project is constantly being updated, however it is not the same as the new 
 ### FE2CMTAS
 
 This is a project, similar to [8y8x](https://github.com/8y8x)'s project that aims to bring an exploit-free way of creating a TAS to Flood Escape 2!
+It works by loading a map in [Flood Escape 2 Community Maps](), that destroys the game and builds it's own environment from the ground up.  This tool is especially cool as it allows you to TAS any map in community maps, so you're not just limited to the maps in the main game.
+
 ---
 
 Feel free to explore my repositories and projects!
