@@ -2,12 +2,15 @@
 I'm ChasM, a ROBLOX Game Developer and 3D Modeler.  
 
 I have experience with several programming languages, including:  
-- **JavaScript/TypeScript**: 2 years  
-- **Lua**: 3 years  
-- **Python**: 3 years  
-- **C#**: 1 year  
+- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript/TypeScript**: 2 years  
+- ![Lua](https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png) **Lua**: 3 years  
+- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) **Python**: 3 years  
+- ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) **C#**: 1 year  
 
-I also know a bit of **C**, **Rust**, and **C++**!  
+I also know a bit of  
+- ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) **C**  
+- ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg) **Rust**  
+- ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) **C++**!  
 
 ---
 
