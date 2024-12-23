@@ -2,15 +2,15 @@
 I'm ChasM, a ROBLOX Game Developer and 3D Modeler.  
 
 I have experience with several programming languages, including:  
-- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript/TypeScript**: 2 years  
-- ![Lua](https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png) **Lua**: 3 years  
-- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) **Python**: 3 years  
-- ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) **C#**: 1 year  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20"/> **JavaScript/TypeScript**: 2 years  
+- <img src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png" alt="Lua" width="20"/> **Lua**: 3 years  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20"/> **Python**: 3 years  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="20"/> **C#**: 1 year  
 
-I also know a bit of  
-- ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) **C**  
-- ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg) **Rust**  
-- ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) **C++**!  
+I also know a bit of:  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="20"/> **C**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="20"/> **Rust**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20"/> **C++**!  
 
 ---
 
