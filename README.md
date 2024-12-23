@@ -16,19 +16,24 @@ I also know a bit of:
 
 ### Notable Project: FE2TAS  
 
-One of my coolest projects is **FE2TAS**, a tool-assisted speedrun (TAS) tool for the ROBLOX game *Flood Escape 2*. This is a script you can execute with a script injector, giving you an environment to create TAS runs. It comes with a sandbox where you can live record your inputs and play them back in real time.  
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 16px; background-color: #f9f9f9;">
 
-> **Note:** *This only works in [Flood Escape 2 2022](https://www.roblox.com/games/95410451364746/FE2-2022).*  
+**FE2TAS**  
+A tool-assisted speedrun (TAS) tool for the ROBLOX game *Flood Escape 2*.  
+This script is executed via a script injector, providing an environment for creating TAS runs.  
+It includes a sandbox for live input recording and real-time playback.  
 
-#### Key Features:  
-- **Frame Advance**: Lets you step forward one frame at a time for super precise control.  
-- **In-Depth Part Colors**: Highlights parts, meshes, and unions, and also shows unanchored objects and sloped parts for easier visualization.  
-- **Climbing Tool Raycast**: Shoots a raycast from your `HumanoidRootPart` to determine if you can climb on a part.  
-- **Hallway Tool Raycast**: Draws a raycast in your movement direction, making it easier to cut corners smoothly.  
-- **Button Hitboxes**: Shows button interaction zones and includes an option to reveal buttons through walls.  
-- **Compact Binary Saving**: Saves data in a tiny, optimized binary format where no data is repeated, keeping file sizes small.  
+**Key Features:**  
+- **Frame Advance**: Step forward one frame at a time for precise control.  
+- **In-Depth Part Colors**: Highlights parts, meshes, and unions, including unanchored objects and sloped parts.  
+- **Climbing Tool Raycast**: Visualizes climbable parts with a raycast from the `HumanoidRootPart`.  
+- **Hallway Tool Raycast**: Draws a raycast in your movement direction to enable smooth corner cutting.  
+- **Button Hitboxes**: Displays button interaction zones, with an extended option to reveal buttons through walls.  
+- **Compact Binary Saving**: Saves data in a binary format, eliminating redundancy for smaller file sizes.  
 
-This project is still being updated, but I’m also working on something even better: **FE2CMTAS**!  
+*Note: FE2TAS only works in [Flood Escape 2 2022](https://www.roblox.com/games/95410451364746/FE2-2022).*  
+
+</div>
 
 ---
 
