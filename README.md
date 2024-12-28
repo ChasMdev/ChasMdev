@@ -1,4 +1,6 @@
 ### Hey there 👋  
+[![Discord Presence](https://lanyard.cnrad.dev/api/862122952970600478)](https://discord.com/users/862122952970600478)
+
 I'm ChasM, a ROBLOX Game Developer and 3D Modeler.  
 
 I have experience with several programming languages, including:  
