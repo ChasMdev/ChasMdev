@@ -1,5 +1,8 @@
 ### Hey there 👋  
 [![Discord Presence](https://lanyard.cnrad.dev/api/862122952970600478)](https://discord.com/users/862122952970600478)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasmdev&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chasmdev&theme=omni&show_icons=true)
 
 I'm ChasM, a ROBLOX Game Developer and 3D Modeler.  
 
@@ -12,7 +15,9 @@ I have experience with several programming languages, including:
 I also know a bit of:  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="16" height="16"/> **C**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="16" height="16"/> **Rust**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="16" height="16"/> **C++**!  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="16" height="16"/> **C++**!
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chasmdev&show_icons=true&locale=en&layout=compact" alt="chasmdev" /></p>
 
 ---
 
