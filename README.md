@@ -1,5 +1,4 @@
 ### Hey there 👋  
-[![Discord Presence](https://lanyard.cnrad.dev/api/862122952970600478)](https://discord.com/users/862122952970600478)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasmdev&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chasmdev&theme=omni&show_icons=true)
@@ -55,3 +54,5 @@ It works by loading a map in [Flood Escape 2 Community Maps](), completely destr
 ### Let’s Connect  
 
 You can reach me on Discord: [1chasm](https://discord.com/users/862122952970600478). My DMs are always open if you want to chat!  
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/862122952970600478)](https://discord.com/users/862122952970600478)
