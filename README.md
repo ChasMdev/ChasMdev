@@ -1,7 +1,7 @@
 ### Hey there 👋  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasmdev&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chasmdev&theme=omni&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasmdev&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm ChasM, a ROBLOX Game Developer and 3D Modeler.  
 
