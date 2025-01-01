@@ -16,8 +16,6 @@ I also know a bit of:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="16" height="16"/> **Rust**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="16" height="16"/> **C++**!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chasmdev&show_icons=true&locale=en&layout=compact" alt="chasmdev" /></p>
-
 ---
 
 ### Notable Project: FE2TAS  
