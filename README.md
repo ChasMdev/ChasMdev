@@ -35,7 +35,7 @@ It includes a sandbox for live input recording and real-time playback.
 - **Button Hitboxes**: Displays button interaction zones, with an extended option to reveal buttons through walls.  
 - **Compact Binary Saving**: Saves data in a binary format, eliminating redundancy for smaller file sizes.  
 
-*Note: FE2TAS only works in [Flood Escape 2 2022](https://www.roblox.com/games/95410451364746/FE2-2022).*  
+> *Note: FE2TAS only works in [Flood Escape 2 2022](https://www.roblox.com/games/95410451364746/FE2-2022).*  
 
 </div>
 
