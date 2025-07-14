@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chasmdev&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm ChasM, a ROBLOX Game Developer and 3D Modeler.  
+I'm ChasM, a ROBLOX Game Developer and UI/UX Designer.  
 
 I have experience with several programming languages, including:  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="16" height="16"/> **JavaScript/TypeScript**: 2 years  
